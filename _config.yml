@@ -3,17 +3,17 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            KvnKnowles
+tagline:          "It's Blogin' Time!"
+url:              http://kvnknowles.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Kevin KNowles
+  url:            https://twitter.com/kvnknowles
+  email:          knowles.kevin@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/kvnknowles/kvnknowles.github.io
