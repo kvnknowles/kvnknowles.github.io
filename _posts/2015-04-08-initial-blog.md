@@ -2,7 +2,7 @@
 layout: post
 title: Introductions
 ---
-Taking the first step by creating this blog, next step is to start dumping my thoughts in to coherent blogs.  Setting the bar high!
+Taking the first step by creating this blog, next step is to start writing.
 
 ###Why Blog?
 
